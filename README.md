@@ -8,8 +8,8 @@ By using 'new SelectiveSearchSegmentation().runBasic(img,k,min)' to get result.
 
 ![pic_1](pic/2.jpg)
 
-![pic_1](pic/3.jpg)
+![pic_2](pic/3.jpg)
 
-![pic_1](pic/1.jpg)
+![pic_3](pic/1.jpg)
 
-![pic_1](pic/4.jpg)
+![pic_4](pic/4.jpg)
